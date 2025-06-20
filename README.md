@@ -1,0 +1,1 @@
+# Self-RAG-Based-Intelligent-Retrieval-System-with-OpenAI-Embeddings-and-FAISS-Search
